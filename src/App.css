@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  height: auto;
+  width: 70vmin;
+}
+
+.App-logo {
+  height: auto;
+  width: 70vmin;
+  pointer-events: none;
+}
+/* 
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+.App-header {
+  background-color: pink;
+  min-height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(2vmin + 2vmin);
+  color: white;
+}
+
+.App-photo {
+  height: auto;
+  width: 10vmin;
+}
+
+/* .App-link {
+  color: #61dafb;
+} */
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+
+/* I tried my best with the styling and only did what I thought was necessary. It doesn't look like what I hoped but, I can't figure out how to and I need to move on to my next assisgnment. */
